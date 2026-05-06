@@ -1,8 +1,10 @@
 🌐 Peesa Lahari Sri – Portfolio Website
+
 A modern, responsive, and animated personal portfolio built using React.js. Designed to showcase skills, projects, and achievements with a clean UI inspired by modern product designs.
 
 🚀 Live Demo
-https://new-portfolio168.vercel.app/
+
+🔗 https://new-portfolio168.vercel.app/
 
 👤 About Me
 🎓 B.Tech CSE (AI & ML) Student
@@ -10,12 +12,12 @@ https://new-portfolio168.vercel.app/
 🤖 AI/ML Enthusiast
 🧠 Strong in Data Structures & Problem Solving
 🛠 Tech Stack
-Frontend
+🚀 Frontend
 React.js
 JavaScript (ES6+)
 HTML5
 CSS3
-Tools
+🧰 Tools
 VS Code
 Git & GitHub
 ✨ Features
@@ -55,11 +57,11 @@ client/
 💬 AI Chat Web App (LLM APIs)
 ⚡ Energy Consumption Prediction (ML + Flask)
 🔗 Profiles
-GitHub: https://github.com/P-lahari93
-LinkedIn: https://www.linkedin.com/in/Laharisri/
-LeetCode: https://leetcode.com/u/LahariTanu/
-HackerRank: https://www.hackerrank.com/profile/peesalaharisri
-Striver Sheet: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
+💻 GitHub: https://github.com/P-lahari93
+🔗 LinkedIn: https://www.linkedin.com/in/Laharisri/
+🧩 LeetCode: https://leetcode.com/u/LahariTanu/
+🏆 HackerRank: https://www.hackerrank.com/profile/peesalaharisri
+📘 Striver Sheet: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 📦 Installation & Setup
 # Clone repository
 git clone https://github.com/your-username/portfolio.git
@@ -78,7 +80,8 @@ npm start
 🤖 Integrate AI chatbot
 🌙 Dark/Light mode toggle
 📬 Contact
-📧 Email: peesalaharisri@gmail.com 📍 Location: Andhra Pradesh, India
+📧 Email: peesalaharisri@gmail.com
+📍 Location: Andhra Pradesh, India
+⭐ Support
 
-⭐ If you like this project
-Give it a ⭐ on GitHub and support!
+If you like this project, give it a ⭐ on GitHub!
